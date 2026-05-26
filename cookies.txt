@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-gomequipment.com	TRUE	/	FALSE	1999999999	X-Mapping-dminehmk	4321A2194934B9293FB6EAD6D22ADC78
-
